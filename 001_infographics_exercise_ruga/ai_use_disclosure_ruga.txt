@@ -1,0 +1,12 @@
+AI Use Disclosure Statement
+Activity: CHEM 13 Asynchronous Activity No. 1
+Theisha Nicole M. Ruga          Bs ChE-2A
+
+AI Tool Used: ChatGPT
+Extent of AI Assistance:
+
+The AI was used only as a learning and drafting assistant to help organize structural ideas and draft concise wording for Retinol, Glycerol, and Coumarin. Additionally, the AI assisted in formatting citations according to APA 7th edition style and suggested initial connections between the compounds and relevant chemical engineering unit operations.
+
+Verification
+All physical parameters, functional group assignments, industrial synthesis reactions, and safety data were independently verified against PubChem and chemical engineering literature prior to graphic assembly. The AI did not create the final output or infographics, as the three organic compounds were selected independently. The infographics were created and finalized on Canva using a chosen template, with elements and layouts manually adjusted.
+
